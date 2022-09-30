@@ -1,0 +1,394 @@
+{
+    "players": [
+        {
+            "name": "Ben Lake",
+            "team": "Belfast Giants",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 8,
+                "passing": 7,
+                "fighting": 5,
+                "defence": 6,
+                "endurance": 8
+            },
+            "img": "https://belfastgiants.s3-assets.com/_900x736_crop_top-center_100_none/900x736-Lake-3.png"
+        },
+        {
+            "name": "Scott Conway",
+            "team": "Belfast Giants",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 9,
+                "passing": 7,
+                "fighting": 6,
+                "defence": 5,
+                "endurance": 7
+            },
+            "img": "https://belfastgiants.s3-assets.com/_900x736_crop_top-center_100_none/900x736-Conway-2.png"
+        },
+        {
+            "name": "Will Cullen",
+            "team": "Belfast Giants",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 6,
+                "passing": 6,
+                "fighting": 7,
+                "defence": 7,
+                "endurance": 6
+            },
+            "img": "https://belfastgiants.s3-assets.com/_900x736_crop_top-center_100_none/900x736-Cullen.png"
+        },
+        {
+            "name": "Brodie Reid",
+            "team": "Cardiff Devils",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 10,
+                "passing": 8,
+                "fighting": 5,
+                "defence": 6,
+                "endurance": 7
+            },
+            "img": "https://www.cardiffdevils.com/application/files/5216/6315/7859/reid.png"
+        },
+        {
+            "name": "Riley Brandt",
+            "team": "Cardiff Devils",
+            "attributes": {
+                "slapShot": 5,
+                "wristShot": 8,
+                "passing": 7,
+                "fighting": 10,
+                "defence": 7,
+                "endurance": 8
+            },
+            "img": "https://www.cardiffdevils.com/application/files/2116/6316/5536/brandt.png"
+        },
+        {
+            "name": "Sam Jardine",
+            "team": "Cardiff Devils",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 6,
+                "passing": 7,
+                "fighting": 9,
+                "defence": 7,
+                "endurance": 9
+            },
+            "img": "https://www.cardiffdevils.com/application/files/9616/6316/7804/jardine.png"
+        },
+        {
+            "name": "Josh Batch",
+            "team": "Cardiff Devils",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 6,
+                "passing": 7,
+                "fighting": 7,
+                "defence": 8,
+                "endurance": 6
+            },
+            "img": "https://www.cardiffdevils.com/application/files/3016/6316/2425/batch.png"
+        },
+        {
+            "name": "Nathanael Halbert",
+            "team": "Coventry Blaze",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 6,
+                "passing": 9,
+                "fighting": 7,
+                "defence": 8,
+                "endurance": 7
+            },
+            "img": "https://www.coventryblaze.co.uk/wp-content/uploads/2021/10/Halbert.webp"
+        },
+        {
+            "name": "Kim Tallberg",
+            "team": "Coventry Blaze",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 8,
+                "passing": 6,
+                "fighting": 6,
+                "defence": 5,
+                "endurance": 7
+            },
+            "img": "https://www.coventryblaze.co.uk/wp-content/uploads/2021/10/Tallberg-1.webp"
+        },
+        {
+            "name": "Colton Yellow Horn",
+            "team": "Coventry Blaze",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 9,
+                "passing": 8,
+                "fighting": 5,
+                "defence": 4,
+                "endurance": 6
+            },
+            "img": "https://www.coventryblaze.co.uk/wp-content/uploads/2021/10/Yellow-Horn-1.webp"
+        },
+        {
+            "name": "Drydn Dow",
+            "team": "Dundee Stars",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 5,
+                "passing": 8,
+                "fighting": 7,
+                "defence": 8,
+                "endurance": 5
+            },
+            "img": "https://d1ssu070pg2v9i.cloudfront.net/pex/dundee-stars/2022/09/16123851/6_Drydn_Dow-650x900.png"
+        },
+        {
+            "name": "Philippe Sanche",
+            "team": "Dundee Stars",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 8,
+                "passing": 6,
+                "fighting": 6,
+                "defence": 4,
+                "endurance": 7
+            },
+            "img": "https://d1ssu070pg2v9i.cloudfront.net/pex/dundee-stars/2022/09/16124008/10_Philippe_Sanche-650x900.png"
+        },
+        {
+            "name": "Christian Hausinger",
+            "team": "Fife Flyers",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 4,
+                "passing": 6,
+                "fighting": 6,
+                "defence": 7,
+                "endurance": 5
+            },
+            "img": "https://www.fifeflyers.co.uk/image/players/headshots/thumbnail/33.jpg"
+        },
+        {
+            "name": "Reece Cochrane",
+            "team": "Fife Flyers",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 3,
+                "passing": 4,
+                "fighting": 6,
+                "defence": 7,
+                "endurance": 5
+            },
+            "img": "https://www.fifeflyers.co.uk/image/players/headshots/thumbnail/25.jpg"
+        },
+        {
+            "name": "Zack Phillips",
+            "team": "Fife Flyers",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 7,
+                "passing": 7,
+                "fighting": 4,
+                "defence": 2,
+                "endurance": 6
+            },
+            "img": "https://www.fifeflyers.co.uk/image/players/headshots/thumbnail/34.jpg"
+        },
+        {
+            "name": "Colton Waltz",
+            "team": "Glasgow Clan",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 5,
+                "passing": 9,
+                "fighting": 6,
+                "defence": 7,
+                "endurance": 4
+            },
+            "img": "https://clanihc.com/wp-content/uploads/2022/05/ColtonWaltz-800x800.png"
+        },
+        {
+            "name": "Stephen Dixon",
+            "team": "Glasgow Clan",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 6,
+                "passing": 8,
+                "fighting": 8,
+                "defence": 7,
+                "endurance": 4
+            },
+            "img": "https://clanihc.com/wp-content/uploads/2022/07/StephenDixon-800x800.png"
+        },
+        {
+            "name": "Mathieu Roy",
+            "team": "Glasgow Clan",
+            "attributes": {
+                "slapShot": 9,
+                "wristShot": 8,
+                "passing": 6,
+                "fighting": 7,
+                "defence": 5,
+                "endurance": 5
+            },
+            "img": "https://clanihc.com/wp-content/uploads/2022/05/MathieuRoy-800x800.png"
+        },
+        {
+            "name": "Ben O'Connor",
+            "team": "Guildford Flames",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 4,
+                "passing": 8,
+                "fighting": 6,
+                "defence": 7,
+                "endurance": 7
+            },
+            "img": "https://o.b5z.net/i/u/6049927/i/player%20head%20photos/O_connorroster2.jpg"
+        },
+        {
+            "name": "Ian McNulty",
+            "team": "Guildford Flames",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 10,
+                "passing": 8,
+                "fighting": 5,
+                "defence": 2,
+                "endurance": 6
+            },
+            "img": "https://o.b5z.net/i/u/6049927/i/player%20head%20photos/Mcnultyroster2.jpg"
+        },
+        {
+            "name": "Daniel Tedesco",
+            "team": "Guildford Flames",
+            "attributes": {
+                "slapShot": 4,
+                "wristShot": 6,
+                "passing": 5,
+                "fighting": 2,
+                "defence": 2,
+                "endurance": 6
+            },
+            "img": "https://o.b5z.net/i/u/6049927/i/player%20head%20photos/Tedescoroster2.jpg"
+        },
+        {
+            "name": "Chays Ruddy",
+            "team": "Manchester Storm",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 4,
+                "passing": 5,
+                "fighting": 6,
+                "defence": 6,
+                "endurance": 4
+            },
+            "img": "https://www.manchesterstorm.com/wp-content/uploads/2022/07/STORH-2022-23-19-1-140x210.jpg"
+        },
+        {
+            "name": "Dallas Ehrhardt",
+            "team": "Manchester Storm",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 6,
+                "passing": 7,
+                "fighting": 5,
+                "defence": 9,
+                "endurance": 8
+            },
+            "img": "https://www.manchesterstorm.com/wp-content/uploads/2016/07/STORH-2022-23-48-1-140x210.jpg"
+        },
+        {
+            "name": "Jesper Ohrvall",
+            "team": "Manchester Storm",
+            "attributes": {
+                "slapShot": 7,
+                "wristShot": 6,
+                "passing": 6,
+                "fighting": 3,
+                "defence": 3,
+                "endurance": 6
+            },
+            "img": "https://www.manchesterstorm.com/wp-content/uploads/2022/08/STORH-2022-23-42-140x210.jpg"
+        },
+        {
+            "name": "Mathieu Gagnon",
+            "team": "Nottingham Panthers",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 5,
+                "passing": 5,
+                "fighting": 10,
+                "defence": 8,
+                "endurance": 5
+            },
+            "img": "https://www.panthers.co.uk/images/ww/on-ice-team-member/22-23/Gagnon/_resized/Mathieu-Gagnon---Gold_232_296_0_87_1870_2462.jpg"
+        },
+        {
+            "name": "Matthew Myers",
+            "team": "Nottingham Panthers",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 8,
+                "passing": 6,
+                "fighting": 2,
+                "defence": 6,
+                "endurance": 10
+            },
+            "img": "https://www.panthers.co.uk/images/ww/on-ice-team-member/22-23/Myers/_resized/Matthew-Myers---Gold_232_296_0_56_1854_2412.jpg"
+        },
+        {
+            "name": "Adam Brady",
+            "team": "Nottingham Panthers",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 7,
+                "passing": 5,
+                "fighting": 5,
+                "defence": 5,
+                "endurance": 6
+            },
+            "img": "https://www.panthers.co.uk/images/ww/on-ice-team-member/22-23/Brady/_resized/Adam-Brady---Gold_232_296_0_61_1835_2442.jpg"
+        },
+        {
+            "name": "Evan Mosey",
+            "team": "Sheffield Steelers",
+            "attributes": {
+                "slapShot": 8,
+                "wristShot": 9,
+                "passing": 8,
+                "fighting": 4,
+                "defence": 8,
+                "endurance": 8
+            },
+            "img": "https://www.icehockeyuk.co.uk/wp-content/uploads/2022/05/26-Evan-Mosey-566x740.jpg"
+        },
+        {
+            "name": "Brandon McNally",
+            "team": "Sheffield Steelers",
+            "attributes": {
+                "slapShot": 4,
+                "wristShot": 7,
+                "passing": 5,
+                "fighting": 9,
+                "defence": 5,
+                "endurance": 5
+            },
+            "img": "https://media.gettyimages.com/photos/brandon-mcnally-of-the-montreal-canadiens-poses-for-his-official-for-picture-id491196198?s=612x612"
+        },
+        {
+            "name": "Robert Dowd",
+            "team": "Sheffield Steelers",
+            "attributes": {
+                "slapShot": 6,
+                "wristShot": 8,
+                "passing": 6,
+                "fighting": 3,
+                "defence": 3,
+                "endurance": 6
+            },
+            "img": "https://gameplanfinancial.co.uk/wp-content/uploads/2020/12/robert-dowd.jpg"
+        }
+    ]
+}
