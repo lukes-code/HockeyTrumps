@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react';
+import { v4 as uuidv4 } from 'uuid';
 import data from '../../players.json';
+import CardContainer from '../CardContainer';
+
 
 export default function Card() {
     const [cpuHand, setCpuHand] = useState([]);
@@ -13,11 +16,11 @@ export default function Card() {
     }, []);
 
     const cpuCards = cpuHand.map((card) =>
-        <p>{card.name}-{card.team}-{card.attributes.slapShot}-{card.attributes.wristShot}-{card.attributes.passing}-{card.attributes.fighting}-{card.attributes.defence}-{card.attributes.endurance}</p>
+        <CardContainer cardDetails={card} key={uuidv4()} />
     );
 
     const playerCards = playerHand.map((card) =>
-    <p>{card.name}-{card.team}-{card.attributes.slapShot}-{card.attributes.wristShot}-{card.attributes.passing}-{card.attributes.fighting}-{card.attributes.defence}-{card.attributes.endurance}</p>
+        <CardContainer cardDetails={card} key={uuidv4()} />
     );
 
     return (
