@@ -24,15 +24,15 @@ export default function Card() {
     );
 
     return (
-        <div className="card">
-            <div>
-                <p><b>CPU Cards</b></p>
-                {cpuCards}
-            </div>
-            <div>
+        <main className="cards">
+            <div className="player-cards">
                 <p><b>Player Cards</b></p>
                 {playerCards}
             </div>
-        </div>
+            <div className="cpu-cards">
+                <p><b>CPU Cards</b></p>
+                {cpuCards}
+            </div>
+        </main>
     );
 } 
